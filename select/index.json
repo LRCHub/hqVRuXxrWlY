@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Sucker for You",
+  "base_artist": "Matt Terry",
+  "createdAt": "2026-03-08T13:48:35.554576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There's One Born Every Minute (I'm A Sucker For You)",
+      "artist": "Jonathan Butler",
+      "has_synced": false,
+      "path": "select/01_There's_One_Born_Every_Minute_(I'm_A_Sucker_For_You)_Jonathan_Butler.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sucker for You",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/02_Sucker_for_You_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sucker For You",
+      "artist": "Michele Morrone",
+      "has_synced": false,
+      "path": "select/03_Sucker_For_You_Michele_Morrone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sucker For You",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/04_Sucker_For_You_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sucker for You",
+      "artist": "Nea",
+      "has_synced": true,
+      "path": "select/05_Sucker_for_You_Nea.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sucker for You (Acoustic)",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/06_Sucker_for_You_(Acoustic)_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sucker for You (John Gibbons Remix)",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/07_Sucker_for_You_(John_Gibbons_Remix)_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Matt Terry - Sucker for You (Official Video)",
+      "artist": "Matt Terry",
+      "has_synced": true,
+      "path": "select/08_Matt_Terry_-_Sucker_for_You_(Official_Video)_Matt_Terry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sucker For You",
+      "artist": "Fresh Cut Slim",
+      "has_synced": false,
+      "path": "select/09_Sucker_For_You_Fresh_Cut_Slim.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sucker for a Superstar",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/10_Sucker_for_a_Superstar_Aqua.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Sucker for Your Sound",
+      "artist": "I Monster",
+      "has_synced": false,
+      "path": "select/11_A_Sucker_for_Your_Sound_I_Monster.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sucker For Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne feat. Wiz Khalifa & Imagine Dragons",
+      "has_synced": true,
+      "path": "select/12_Sucker_For_Pain_(with_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne_feat._Wiz_Khalifa_&_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sucker For Pain (With Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne, Wiz Khalifa & Imagine Dragons",
+      "has_synced": true,
+      "path": "select/13_Sucker_For_Pain_(With_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne,_Wiz_Khalifa_&_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sucker for Love (Extended Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/14_Sucker_for_Love_(Extended_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sucker for Love",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/15_Sucker_for_Love_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sucker For Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/16_Sucker_For_Pain_(with_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm a Sucker For Your Love",
+      "artist": "Teena Marie",
+      "has_synced": false,
+      "path": "select/17_I'm_a_Sucker_For_Your_Love_Teena_Marie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sucker For Pain (with Logic & Ty Dolla $ign",
+      "artist": "Lil Wayne feat. Wiz Khalifa, Imagine Dragons, Logic, Ty Dolla $ign & X Ambassadors",
+      "has_synced": true,
+      "path": "select/18_Sucker_For_Pain_(with_Logic_&_Ty_Dolla_$ign_Lil_Wayne_feat._Wiz_Khalifa,_Imagine_Dragons,_Logic,_Ty_Dolla_$ign_&_X_Ambassado.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sucker For Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne, Wiz Khalifa & Imagine Dragons with Logic and Ty Dolla $ign feat. X Ambassadors",
+      "has_synced": true,
+      "path": "select/19_Sucker_For_Pain_(with_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne,_Wiz_Khalifa_&_Imagine_Dragons_with_Logic_and_Ty_Dolla_$ign_feat._X_Am.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "artist": "Lil Wayne feat. Wiz Khalifa, Imagine Dragons, X Ambassadors, Logic & Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/20_Sucker_for_Pain_(with_Wiz_Khalifa,_Imagine_Dragons,_Logic_&_Ty_Dolla_$ign_feat.__Lil_Wayne_feat._Wiz_Khalifa,_Imagine_Dragons,_X_Ambassadors,_Logic_&_Ty_Dolla_$i.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "artist": "Lil Wayne/Wiz Khalifa/Imagine Dragons/X Ambassadors/Logic/Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/21_Sucker_for_Pain_(with_Wiz_Khalifa,_Imagine_Dragons,_Logic_&_Ty_Dolla_$ign_feat.__Lil_Wayne_Wiz_Khalifa_Imagine_Dragons_X_Ambassadors_Logic_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sucker for Your Love - Radio Edit",
+      "artist": "Michael Canitrot",
+      "has_synced": true,
+      "path": "select/22_Sucker_for_Your_Love_-_Radio_Edit_Michael_Canitrot.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne, Wiz Khalifa, Imagine Dragons, Logic, Ty Dolla $ign, X Ambassadors",
+      "has_synced": true,
+      "path": "select/23_Sucker_for_Pain_(with_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne,_Wiz_Khalifa,_Imagine_Dragons,_Logic,_Ty_Dolla_$ign,_X_Ambassadors.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Sucker For Love",
+      "artist": "Armin van Buuren feat. Avalan",
+      "has_synced": true,
+      "path": "select/24_Sucker_For_Love_Armin_van_Buuren_feat._Avalan.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Sucker For Love",
+      "artist": "Armin Van Buuren Ft. Avalan",
+      "has_synced": true,
+      "path": "select/25_Sucker_For_Love_Armin_Van_Buuren_Ft._Avalan.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Sucker For Pain",
+      "artist": "Lil Wayne , Wiz Khalifa & Imagine Dragons With Logic (27) And Ty Dolla $ign Featuring X Ambassadors",
+      "has_synced": true,
+      "path": "select/26_Sucker_For_Pain_Lil_Wayne_,_Wiz_Khalifa_&_Imagine_Dragons_With_Logic_(27)_And_Ty_Dolla_$ign_Feat.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne, Wiz Khalifa & Imagine Dragons",
+      "has_synced": true,
+      "path": "select/27_Sucker_for_Pain_(with_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne,_Wiz_Khalifa_&_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sucker For Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/28_Sucker_For_Pain_(with_Logic,_Ty_Dolla_$ign_&_X_Ambassadors)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sucker for You",
+      "artist": "Matt Terry",
+      "has_synced": false,
+      "path": "select/pl_01_Sucker_for_You_Matt_Terry.txt"
+    }
+  ]
+}
